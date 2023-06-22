@@ -20,7 +20,7 @@
 
 - Frida/*posed
     - [FRIDA破解妹子图MZT的防截屏机制(2023/入门/安卓13/Frida hook 安卓系统API)](AndroidNetwork/MZT/)
-    - [Frida hook dlopen/ArtMehod:RegisterNative](AndroidNetwork/BLF/)
+    - [r0capture export p12 cert/Frida hook dlopen/ArtMehod:RegisterNative](AndroidNetwork/BLF/)
 
 - 抓包
     - [抓到酷安登录包(2023/入门/安卓13/VPN.HTTPS中间人抓包配置)](AndroidNetwork/CoolAPK/)
