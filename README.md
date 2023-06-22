@@ -19,13 +19,14 @@
     - [Pixel4/原生安卓13/KernelSU/Lsposed/Frida16/导抓包证书（2023/进阶/安卓13/学习新工具KernelSU）](AndroidEnvironment/Pixel4KernelSU/)
 
 - Frida/*posed
+    - [FRIDA破解妹子图MZT的防截屏机制(2023/入门/安卓13/Frida hook 安卓系统API)](AndroidNetwork/MZT/)
+    - [Frida hook dlopen/ArtMehod:RegisterNative](AndroidNetwork/BLF/)
 
 - 抓包
     - [抓到酷安登录包(2023/入门/安卓13/VPN.HTTPS中间人抓包配置)](AndroidNetwork/CoolAPK/)
-    - [抓到mmzztt妹子性感图(2023/入门/安卓13/VPN.HTTPS中间人抓包配置)](AndroidNetwork/MZT/)
-    - 抓到BLF登陆包（2023/进阶/安卓13/服务器校验客户端证书、r0capture、frida hook so、SO字符串加密、证书格式）
-    - 抓到dida登陆包（2023/进阶/安卓13/r0cap/混淆后的SSL pinning解绑定）
-    - 抓到ytx登陆包（2023/进阶/安卓13/flutter写的SSL pinning解绑定）
+    - [抓到MZT妹子性感图(2023/入门/安卓13/VPN.HTTPS中间人抓包配置)](AndroidNetwork/MZT/)
+    - [抓到BLF登陆包（2023/进阶/安卓13/服务器校验客户端证书、r0capture、frida hook so、SO字符串加密、证书格式）](AndroidNetwork/BLF/)
+    
 
 - 算法
 
