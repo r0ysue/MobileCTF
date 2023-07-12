@@ -101,6 +101,6 @@ for j in range(5):
     print(lst[2][j],end="")
 ```
 
-最后就可以算出来 flag 
+最后就可以算出来 flag{sosorryla}
 
 
