@@ -1,7 +1,5 @@
 # 天天小额贷
 
-案例的资源位于 apk/03/jc.apk 
-
 1. 该程序代码中，手机号登录界面所对应类名（答案格式：com.tencent.mm.xxx.xxx）
 答> cn.forensix.daikuan.ui.login.LoginActivity
 
