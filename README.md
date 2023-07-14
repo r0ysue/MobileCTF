@@ -35,5 +35,6 @@
 - 算法
     - [简易注册机(2023/入门/安卓13/学习算法还原和倒推)](AndroidAlgorithm/RegisterMachine/)
     - [公安比武：天天小额贷(2023/入门/安卓13/学习Frida hook so基操/IDA分析基操)](AndroidAlgorithm/p2ploan/)
+    - [自研入门算法题（2023/入门/安卓13/学习标准算法的处理流程）](AndroidAlgorithm/R0CTF/)
     
 ### iOS
