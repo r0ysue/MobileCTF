@@ -1,5 +1,7 @@
 # 第二题
 
+文件： ./02RCTF/file/rctf-debug.apk
+
 ## 题目要求
 
 > 题目要求：输入6位数字，得到 Congratulation for you!!!
